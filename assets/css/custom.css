@@ -1,0 +1,27 @@
+.card-stripe {
+  height: 15px;
+  width: 100%;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.card-book-class [class^="ti-"] {
+  margin-right: .5em;
+}
+
+.card-book-class .row {
+  padding-left: .3em;
+}
+
+.card-book-class .text-spots-left {
+  font-size: .9em;
+  margin-top: 5px;
+  color: #808080;
+}
+
+.d-center-col-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
